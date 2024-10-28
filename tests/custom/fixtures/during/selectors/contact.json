@@ -1,0 +1,9 @@
+{
+    "contactNameSelector": "div.webforms > form.form input[placeholder*='Name']",
+    "contactEmailSelector": "div.webforms > form.form input[placeholder*='Email']",
+    "contactCompanySelector": "div.webforms > form.form input[placeholder*='Company']",
+    "contactTelephoneSelector": "div.webforms > form.form input[placeholder*='Phonenumber']",
+    "contactSubjectSelector": "div.webforms > form.form input[placeholder*='Subject']",
+    "contactCommentSelector": "div.webforms > form.form input[placeholder*='Comment']",
+    "contactButtonSelectorName": "div.webforms > form.form button[type='submit']"
+}

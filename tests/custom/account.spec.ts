@@ -4,7 +4,7 @@ import {Account} from '../base/utils/Account';
 import dotenv from 'dotenv';
 
 import toggle from './config/test-toggles.json';
-import slugs from '../base/fixtures/before/slugs.json';
+import slugs from './fixtures/before/slugs.json';
 import accountSelector from './fixtures/during/selectors/account.json';
 import globalSelector from '../base/fixtures/during/selectors/global.json';
 import accountValue from './fixtures/during/input-values/account.json';
